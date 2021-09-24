@@ -5,7 +5,7 @@
 * ___Creator of MarkDown___
 
 * ___Synthax___
-1. [Heading](markdown.md#Heading)
+1. [Heading](markdown.md#heading-)
 2. [Line Breaks](markdown.md#Linebreaks)
 3. [Bold](markdown.md#Bold)
 4. [Italic](markdown.md#Italic)
@@ -13,7 +13,7 @@
 6. [Lists](markdown.md#Lists)
 7. [Horizontal rules](markdown.md#Horizontalrules)
 8. [Links](markdown.md#Links)
-9. [Images](markdown.md#Images) 
+9. [Images](markdown.md#images-) 
 10. [Escaping Characters](markdown.md#EscapingCharacters)
 
 
@@ -52,7 +52,6 @@ About [Marinellv](https://www.github.com/MarineLLV) :
 
 ***I started learning code since 2 months. Before I was in Human Resources***.  
 ***I'm 31 years old***.
-
 
 ---
 :metal:
