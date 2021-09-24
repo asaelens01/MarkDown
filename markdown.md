@@ -151,11 +151,11 @@ To add an image, add an exclamation mark (!), followed by alt text in brackets, 
 
 #### Exemple input : 
 
-    ![little tricks!](/Users/emmapercke/Desktop/exercise-markdown/image/tricks0.jpeg "trick")
+    ![little tricks](/Users/emmapercke/Desktop/MarkDown/image/tricks0.jpeg "trick")
 
 #### Output : 
 
-![little tricks!](/Users/emmapercke/Desktop/exercise-markdown/image/tricks0.jpeg "trick")
+![little tricks](/exercise-markdown/image/tricks0.jpeg "trick")
 
 ---
 
