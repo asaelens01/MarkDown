@@ -182,6 +182,36 @@ To display a literal character that would otherwise be used to format text in a 
 
 # I hope you've learned a lot!! 
 
+***Us, after 7 months at Becode...***  
+![gif geek](/image/gif.gif)  
+
+---
+
+**This is a little code in C to print the alphabet in reverse without writing each letters by yourself** :  
+
+    #include <unistd.h>
+
+    void	ft_putchar(char c)
+    {
+	    write(1, &c, 1);
+    }
+
+    void	ft_print_reverse_alphabet(void)
+    {   
+	    char letter;
+
+	    letter = 'z';
+	    while (letter >= 'a')
+	    {
+		    t_putchar(letter);
+		    letter--;
+	    }
+    }
+
+    ---
+
+# I hope you loved it!!
+
 :metal:
 
 
