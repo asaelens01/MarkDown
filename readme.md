@@ -6,15 +6,15 @@
 
 * ___Synthax___
 1. [Heading](markdown.md#heading-)
-2. [Line Breaks](markdown.md#Linebreaks)
-3. [Bold](markdown.md#Bold)
-4. [Italic](markdown.md#Italic)
-5. [Bold and italic](markdown.md#Boldanditalic)
-6. [Lists](markdown.md#Lists)
-7. [Horizontal rules](markdown.md#Horizontalrules)
-8. [Links](markdown.md#Links)
+2. [Line Breaks](markdown.md#line-breaks-)
+3. [Bold](markdown.md#bold-)
+4. [Italic](markdown.md#italic-)
+5. [Bold and italic](markdown.md#Bold-and-italic-)
+6. [Lists](markdown.md#lists-)
+7. [Horizontal rules](markdown.md#Horizontal-rules-)
+8. [Links](markdown.md#links-)
 9. [Images](markdown.md#images-) 
-10. [Escaping Characters](markdown.md#EscapingCharacters)
+10. [Escaping Characters](markdownmd#escaping-Characters-)
 
 
 ---
