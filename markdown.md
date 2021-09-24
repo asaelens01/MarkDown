@@ -208,7 +208,7 @@ To display a literal character that would otherwise be used to format text in a 
 	    }
     }
 
-    ---
+---
 
 # I hope you loved it!!
 
